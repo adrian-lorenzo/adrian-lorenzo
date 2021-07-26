@@ -14,7 +14,7 @@ Some of the programming languages that I enjoy using and that I have used a lot 
 
 Some other tools, like frameworks, libraries, and services that I have used to work on my projects are: 
 
-- **User interfaces**: SwiftUI, Combine, Android Jetpack, Kotlin Coroutines.
+- **User interfaces**: SwiftUI, Combine, Android Jetpack, Kotlin Coroutines, UIKit, React.
 - **Machine learning**: Tensorflow, Pytorch, Scikit-learn, Numpy, Pillow. 
 - **Backend applications**: Serverless Framework, Spring Boot, Express.js, Flask.
 - **Cloud providers**: Amazon Web Services, Google Cloud Platform.
