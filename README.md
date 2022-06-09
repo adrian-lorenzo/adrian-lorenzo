@@ -6,18 +6,18 @@
 
 I **love creating things with the purpose of delivering something useful for people that may need help or to just try to improve their lives**, and I use my computer science knowledge to achieve this goal.
 
-I'm in love with **Software Engineering, Artificial Intelligence, and Computer Vision**, but I quite enjoy everything related to computer science (For example, metaprogramming, discrete optimization, and security).
+I'm in love with **Software Engineering, Artificial Intelligence, Information Security and Computer Vision**, but I quite enjoy everything related to computer science (For example, metaprogramming, discrete optimization, and security).
 
 Programming languages, frameworks, and libraries are great tools that help me create the things I work on. However, I don't feel linked to any of them emotionally. **I use them as tools to achieve an objective, but my objective is not to use them.**
 
-Some of the programming languages that I enjoy using and that I have used a lot are **Swift, Go, Kotlin, Python, Typescript, C/C++, Java, Rust.**
+Some of the programming languages that I enjoy using and that I have used a lot are **Swift, Go, Kotlin, Python, Typescript, C/C++, Java and Rust.**
 
 Some other tools, like frameworks, libraries, and services that I have used to work on my projects are: 
 
 - **User interfaces**: SwiftUI, Combine, Android Jetpack, Kotlin Coroutines, UIKit, React.
 - **Machine learning**: Tensorflow, Pytorch, Scikit-learn, Numpy, Pillow. 
 - **Backend applications**: Serverless Framework, Spring Boot, Express.js, Flask.
-- **Cloud providers**: Amazon Web Services, Google Cloud Platform.
+- **Cloud providers**: Amazon Web Services, Google Cloud Platform, Azure.
 - **Deployment**: Docker, Docker Compose.
 - **Continuous delivery and continuous deployment**: GitHub Actions, Bitrise.
 
