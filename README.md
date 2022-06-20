@@ -2,7 +2,7 @@
 
 **My name is [Adrián Lorenzo](https://adrianlorenzo.dev)** and I live in Gran Canaria, Spain, with my family! 
 
-**I am Computer Science Engineer who is currently working as a Software Engineer at [The Agile Monkeys](https://www.theagilemonkeys.com)**, an amazing company with outstanding people. 
+**I am Computer Science Engineer who is currently working as Chief Innovation Officer at [The Agile Monkeys](https://www.theagilemonkeys.com)**, an amazing company with outstanding people. 
 
 I **love creating things with the purpose of delivering something useful for people that may need help or to just try to improve their lives**, and I use my computer science knowledge to achieve this goal.
 
