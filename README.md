@@ -14,7 +14,7 @@ I have experience working in:
 - Pattern Recognition
 - Semantics Analysis and Extraction
 
-Some of the programming languages that I enjoy using and that I have used a lot are **Python, Swift, Go, Kotlin, C/C++, Java, Typescript, and Rust.** Other relevant tools, like frameworks, libraries, and services that I have used to work on my projects are: 
+Some of the programming languages that I enjoy using and that I have used a lot are **Python, Go, C/C++, Kotlin, Swift, Java, Rust, and Typescript.** Other relevant tools, like frameworks, libraries, and services that I have used to work on my projects are: 
 
 - **Machine learning**: Tensorflow, PyTorch, Scikit-learn, Pillow, 🤗datasets, 🤗transformers
 - **Data:** Numpy, Pandas, Delta Lake
