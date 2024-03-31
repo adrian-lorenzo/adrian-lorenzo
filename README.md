@@ -2,27 +2,31 @@
 
 **My name is [Adrián Lorenzo](https://adrianlorenzo.dev)** and I live in Gran Canaria, Spain, with my family! 
 
-**I am Computer Science Engineer who is currently working as Chief Innovation Officer at [The Agile Monkeys](https://www.theagilemonkeys.com)**, an amazing company with outstanding people. 
+I currently work as **Chief Innovation Officer at [The Agile Monkeys](https://www.theagilemonkeys.com)**.
 
-I **love creating things with the purpose of delivering something useful for people that may need help or to just try to improve their lives**, and I use my computer science knowledge to achieve this goal.
+I love **Artificial Intelligence, Natural Language Processing, Computer Vision, and Software Engineering**, but I enjoy everything related to computer science (For example, metaprogramming, discrete optimization, and security).
 
-I'm in love with **Software Engineering, Artificial Intelligence, Information Security and Computer Vision**, but I quite enjoy everything related to computer science (For example, metaprogramming, discrete optimization, and security).
+I have experience working in:
 
-Programming languages, frameworks, and libraries are great tools that help me create the things I work on. However, I don't feel linked to any of them emotionally. **I use them as tools to achieve an objective, but my objective is not to use them.**
+- Information Retrieval (Extractive and Generative)
+- Language Understanding
+- Knowledge Representation
+- Pattern Recognition
+- Semantics Analysis and Extraction
 
-Some of the programming languages that I enjoy using and that I have used a lot are **Swift, Go, Kotlin, Python, Typescript, C/C++, Java and Rust.**
+Some of the programming languages that I enjoy using and that I have used a lot are **Python, Swift, Go, Kotlin, C/C++, Java, Typescript, and Rust.** Other relevant tools, like frameworks, libraries, and services that I have used to work on my projects are: 
 
-Some other tools, like frameworks, libraries, and services that I have used to work on my projects are: 
-
-- **User interfaces**: SwiftUI, Combine, Android Jetpack, Kotlin Coroutines, UIKit, React.
-- **Machine learning**: Tensorflow, Pytorch, Scikit-learn, Numpy, Pillow. 
-- **Backend applications**: Serverless Framework, Spring Boot, Express.js, Flask.
+- **Machine learning**: Tensorflow, PyTorch, Scikit-learn, Pillow, 🤗datasets, 🤗transformers
+- **Data:** Numpy, Pandas, Delta Lake
+- **Vector Storage:** FAISS, Annoy, Weaviate.
+- **Virtualization**: Docker, Docker Compose.
+- **Workflows and pipelines:** Apache Airflow
+- **Backend applications**: Spring Framework, Gin, Nest.js, FastAPI, Flask.
+- **User interfaces**: SwiftUI, Swift Combine, Android Jetpack, Kotlin Coroutines, UIKit, React.
 - **Cloud providers**: Amazon Web Services, Google Cloud Platform, Azure.
-- **Deployment**: Docker, Docker Compose.
-- **Continuous delivery and continuous deployment**: GitHub Actions, Bitrise.
 
-With all of these technologies, **I have worked on very different projects related to software and its capability to bring value to people.** Solutions like cloud-based applications, mobile applications, machine learning models, smart agents, web applications, and much more!
+I don't feel linked to any technology emotionally. **I use them as tools to achieve an objective, but my objective is not to use them.** With all of them, **I have worked on several projects related to Machine Learning and Software Engineering.**
 
-**I'm open to help and collaborate on things that can bring value to the community.** If that is the case, don't hesitate to get in touch with me.
+**I'm open to helping and collaborating on things that can bring value to the community.** If that is the case, don't hesitate to get in touch with me.
 
 If you want to get in touch with me, **you can contact me through [LinkedIn](https://www.linkedin.com/in/adrianlorenzomelian/) or [Twitter](https://twitter.com/xAdrianLorenzo).**
