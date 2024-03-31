@@ -1,6 +1,6 @@
-## Hello!
+## Hello! 👋
 
-**My name is [Adrián Lorenzo](https://adrianlorenzo.dev)** and I live in Gran Canaria, Spain, with my family! 
+**My name is [Adrián Lorenzo](https://adrianlorenzo.dev)** and I live in Gran Canaria, Spain 🇪🇸, with my family! 
 
 I currently work as **Chief Innovation Officer at [The Agile Monkeys](https://www.theagilemonkeys.com)**.
 
