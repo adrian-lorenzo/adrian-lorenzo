@@ -18,12 +18,12 @@ Some of the programming languages that I enjoy using and that I have used a lot 
 
 - **Machine learning**: Tensorflow, PyTorch, Scikit-learn, Pillow, 🤗datasets, 🤗transformers
 - **Data:** Numpy, Pandas, Delta Lake
-- **Vector Storage:** FAISS, Annoy, Weaviate.
-- **Virtualization**: Docker, Docker Compose.
+- **Vector Storage:** FAISS, Annoy, Weaviate
+- **Virtualization**: Docker, Docker Compose
 - **Workflows and pipelines:** Apache Airflow
-- **Backend applications**: Spring Framework, Gin, Nest.js, FastAPI, Flask.
-- **User interfaces**: SwiftUI, Swift Combine, Android Jetpack, Kotlin Coroutines, UIKit, React.
-- **Cloud providers**: Amazon Web Services, Google Cloud Platform, Azure.
+- **Backend applications**: Spring Framework, Gin, Nest.js, FastAPI, Flask
+- **User interfaces**: SwiftUI, Swift Combine, Android Jetpack, Kotlin Coroutines, UIKit, React
+- **Cloud providers**: Amazon Web Services, Google Cloud Platform, Azure
 
 I don't feel linked to any technology emotionally. **I use them as tools to achieve an objective, but my objective is not to use them.** With all of them, **I have worked on several projects related to Machine Learning and Software Engineering.**
 
