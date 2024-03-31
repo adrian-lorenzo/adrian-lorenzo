@@ -25,7 +25,7 @@ Some of the programming languages that I enjoy using and that I have used a lot 
 - **User interfaces**: SwiftUI, Swift Combine, Android Jetpack, Kotlin Coroutines, UIKit, React
 - **Cloud providers**: Amazon Web Services, Google Cloud Platform, Azure
 
-I don't feel linked to any technology emotionally. **I use them as tools to achieve an objective, but my objective is not to use them.** With all of them, **I have worked on several projects related to Machine Learning and Software Engineering.**
+I don't feel linked to any technology emotionally. **I use them as tools to achieve an objective, but my objective is not to use them.** With all of them, I have worked on several projects related to Machine Learning and Software Engineering.
 
 **I'm open to helping and collaborating on things that can bring value to the community.** If that is the case, don't hesitate to get in touch with me.
 
